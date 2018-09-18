@@ -2,7 +2,7 @@
 
 #需要修改的值
 
-path = '/home/pi/live'
+path = '/home/pi/live/24h-raspberry-live-on-bilibili/'
 #本文件的路径，请修改
 
 roomid = '205175'
