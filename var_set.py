@@ -2,21 +2,21 @@
 
 #需要修改的值
 
-path = '/home/pi/live'
+path = '/home/pi/share'
 #本文件的路径，请修改
 
 roomid = '205175'
 #房间id（真实id，不一定是网址里的那个数）
 
-cookie = 'finger=edc6ecda; buvid3=20A59A66-E31C-4516-9DA5-BF5332B9A3DC16095infoc; sid=aetvmslp; DedeUserID=287990140; DedeUserID__ckMd5=c828c660f915a2c8; SESSDATA=0f497c2f%2C1539135531%2Cb468664a; bili_jct=9ec17bd356ca26dd06b0ff6331ffb292; LIVE_BUVID=c2d2c7b75eac7fda9b1f0e6497816aa1; _dfcaptcha=e02671b87f963cb1d37e761021a17027; fts=1536543547; UM_distinctid=165c121df41158-0e8495d3cd41d4-9393265-144000-165c121df435b9; bp_t_offset_287990140=161703268132895259; LIVE_BUVID__ckMd5=472280cec355fd6c'
+cookie = 'buvid3=A33D94EB-1970-4F70-810A-A5A88F225B0E16065infoc; finger=edc6ecda; LIVE_BUVID=2f650f6c76ac2829f0f391a4f2eb1e71; sid=8525ub9l; DedeUserID=287990140; DedeUserID__ckMd5=c828c660f915a2c8; SESSDATA=0f497c2f%2C1539846725%2Cb24a836c; bili_jct=0e764ad33be2bc01dda32f92dc0bbb52; _dfcaptcha=1968d834138b69ef499d1811baf410cc; im_notify_type_287990140=0; bp_t_offset_287990140=164931850883542448; fts=1537254904; UM_distinctid=165eb884f6b37-0fced4333db1f-9393265-144000-165eb884f6c409; LIVE_BUVID__ckMd5=c6498ab0b5d2fe94
 #发送弹幕用的cookie
-csrf_token = '9ec17bd356ca26dd06b0ff6331ffb292'
+csrf_token = '0e764ad33be2bc01dda32f92dc0bbb52'
 #发送弹幕用的csrf_token
 
 download_api_url = 'https://qq.papapoi.com/163music/'
 #获取音乐链接的api网址，服务器性能有限，尽量请换成自己的，php文件在php文件夹
 
-rtmp = 'rtmp://txy.live-send.acg.tv/live-txy/'
+rtmp = 'rtmp://qn.live-send.acg.tv/live-qn/'
 #直播给的两个码，填在这里
 live_code = '?streamname=live_18085741_9906629&key=f61ebeb4e725ffed876575c3ebcd06d9'
 
