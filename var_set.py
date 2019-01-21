@@ -2,7 +2,7 @@
 
 #需要修改的值
 
-path = '/home/pi/live/24h-raspberry-live-on-bilibili/'
+path = '24h-raspberry-live-on-bilibili/'
 #本文件的路径，请修改
 
 roomid = '205175'
@@ -16,7 +16,7 @@ csrf_token = '0e764ad33be2bc01dda32f92dc0bbb52'
 download_api_url = 'https://qq.papapoi.com/163music/'
 #获取音乐链接的api网址，服务器性能有限，尽量请换成自己的，php文件在php文件夹
 
-rtmp = 'rtmp://qn.live-send.acg.tv/live-qn/'
+rtmp = 'rtmp://txy.live-send.acg.tv/live-txy/'
 #直播给的两个码，填在这里
 live_code = '?streamname=live_18085741_9906629&key=f61ebeb4e725ffed876575c3ebcd06d9'
 
