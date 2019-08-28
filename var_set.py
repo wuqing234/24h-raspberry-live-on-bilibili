@@ -8,9 +8,9 @@ path = '24h-raspberry-live-on-bilibili/'
 roomid = '205175'
 #房间id（真实id，不一定是网址里的那个数）
 
-cookie = 'im_notify_type_287990140=0; buvid3=A33D94EB-1970-4F70-810A-A5A88F225B0E16065infoc; LIVE_BUVID=2f650f6c76ac2829f0f391a4f2eb1e71; sid=8525ub9l; DedeUserID=287990140; DedeUserID__ckMd5=c828c660f915a2c8; SESSDATA=0f497c2f%2C1539846725%2Cb24a836c; bili_jct=0e764ad33be2bc01dda32f92dc0bbb52; finger=edc6ecda; bp_t_offset_287990140=165039706103486238; fts=1537254904; UM_distinctid=165eb884f6b37-0fced4333db1f-9393265-144000-165eb884f6c409; LIVE_BUVID__ckMd5=c6498ab0b5d2fe94; GIFT_BLOCK_COOKIE=GIFT_BLOCK_COOKIE; GIFT_BLOCK_COOKIE=GIFT_BLOCK_COOKIE; _dfcaptcha=54c5eaf5f2378a4e3aa0f75d5887cc29'
+cookie = '_uuid=050AA2B2-05D9-D02D-E49E-F5998E3A7FBF33197infoc; buvid3=0D5EDA9F-17C4-41FD-97FC-EA93BF34106C190980infoc; LIVE_BUVID=AUTO4515661229332616; sid=a3ttkc14; DedeUserID=18085741; DedeUserID__ckMd5=3bb4e60e31692881; bili_jct=43594b165fc75e1ef64778ce9f565a34; finger=b3372c5f; im_notify_type_18085741=0; CURRENT_FNVAL=16; stardustvideo=1; rpdid=|(Y|)uYummu0J'ulYYuJumlY; UM_distinctid=16ca4c9cddc783-0b616f76e84c74-7373e61-1fa400-16ca4c9cdddbf6; fts=1566136868; CURRENT_QUALITY=112; bp_t_offset_18085741=292378739037423188; GIFT_BLOCK_COOKIE=GIFT_BLOCK_COOKIE; Hm_lvt_8a6e55dbd2870f0f5bc9194cddf32a02=1566122954,1566573328,1566991687; Hm_lpvt_8a6e55dbd2870f0f5bc9194cddf32a02=1566991885'
 #发送弹幕用的cookie
-csrf_token = '0e764ad33be2bc01dda32f92dc0bbb52'
+csrf_token = '43594b165fc75e1ef64778ce9f565a34'
 #发送弹幕用的csrf_token
 
 download_api_url = 'https://qq.papapoi.com/163music/'
